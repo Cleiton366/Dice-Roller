@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_label">Roll</string>
+    <string name="dice_value"></string>
+    <string name="dice_msg">Click the button to roll the dice</string>
+    <string name="dice_type_text">Choose a dice type</string>
+
+    <string-array name="dice_types">
+        <item>D2</item>
+        <item>D4</item>
+        <item>D6</item>
+        <item>D8</item>
+        <item>D10</item>
+        <item>D12</item>
+        <item>D20</item>
+    </string-array>
+</resources>
